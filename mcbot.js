@@ -35,7 +35,7 @@ client.on('message', gotMcMessage);
 
 async function gotMcMessage(msg){
     console.log(msg);
-    if (msg.channel.id == '822710399152553994'){
+    if (msg.channel.id == '822710399152553994' || '749196372552581154'){
 
         let tokens = msg.content.split(' ');
         if(msg.content == "mc"){
