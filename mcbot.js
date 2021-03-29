@@ -82,7 +82,7 @@ function automsg(){
         else if(utchours == 4 && utcMinutes == 30){
              client.send("Mr.Tanuj Kumar (PQT)\nMeet: https://meet.google.com/lookup/c2eauseakw?authuser=1&hs=179");
         }
-        else if(utchours == 4 && utcMinutes == 22){
+        else if(utchours == 4 && utcMinutes == 36){
             console.log("plz");
              client.send("test pass");
         }
