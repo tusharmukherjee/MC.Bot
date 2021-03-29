@@ -76,10 +76,13 @@ function automsg(msg){
     // Moday Table--------------
     if (changeDay == 1){
         if(utchours == 3 && utcMinutes == 20){
-             msg.channel.send("Mr.Saurabh Gupta (OS)\nMeet: https://meet.google.com/lookup/ctv6kwrdcp?authuser=1&hs=179");
+             msg.channel.send("राम राम जी 🙏\n\nMr.Saurabh Gupta (OS)\nMeet: https://meet.google.com/lookup/ctv6kwrdcp?authuser=1&hs=179");
         }
         else if(utchours == 4 && utcMinutes == 30){
              msg.channel.send("Mr.Tanuj Kumar (PQT)\nMeet: https://meet.google.com/lookup/c2eauseakw?authuser=1&hs=179");
+        }
+        else if(utchours == 1 && utcMinutes == 55){
+             msg.channel.send("test pass");
         }
         else if(utchours == 5 && utcMinutes == 30){
              msg.channel.send("Mr. Amit (CC)\nMeet: https://meet.google.com/lookup/eglcp4njhs?authuser=1&hs=179");
@@ -96,7 +99,7 @@ function automsg(msg){
     // Tuesday Table------------
     if (changeDay == 2){
         if(utchours == 3 && utcMinutes == 20){
-             msg.channel.send("Mr.Tanuj Kumar (PQT)\nMeet: https://meet.google.com/lookup/c2eauseakw?authuser=1&hs=179");
+             msg.channel.send("राम राम जी 🙏\n\nMr.Tanuj Kumar (PQT)\nMeet: https://meet.google.com/lookup/c2eauseakw?authuser=1&hs=179");
         }
         else if(utchours == 4 && utcMinutes == 30){
              msg.channel.send("Arti Sharma (CPS -1)\nMeet: https://meet.google.com/lookup/e6obb4y2fu?authuser=1&hs=179");
@@ -119,7 +122,7 @@ function automsg(msg){
     //Wednesday Table----------
     if (changeDay == 3){
         if(utchours == 3 && utcMinutes == 20){
-             msg.channel.send("Mr.Saurabh Gupta (OS)\nMeet: https://meet.google.com/lookup/ctv6kwrdcp?authuser=1&hs=179");
+             msg.channel.send("राम राम जी 🙏\n\nMr.Saurabh Gupta (OS)\nMeet: https://meet.google.com/lookup/ctv6kwrdcp?authuser=1&hs=179");
         }
         else if(utchours == 4 && utcMinutes == 30){
              msg.channel.send("Mr.Tanuj Kumar (PQT)\nMeet: https://meet.google.com/lookup/c2eauseakw?authuser=1&hs=179");
@@ -142,7 +145,7 @@ function automsg(msg){
     //Thursday Table------------
     if (changeDay == 4){
         if(utchours == 3 && utcMinutes == 20){
-             msg.channel.send("Mr.Tanuj Kumar (PQT)\nMeet: https://meet.google.com/lookup/c2eauseakw?authuser=1&hs=179");
+             msg.channel.send("राम राम जी 🙏\n\nMr.Tanuj Kumar (PQT)\nMeet: https://meet.google.com/lookup/c2eauseakw?authuser=1&hs=179");
         }
         else if(utchours == 4 && utcMinutes == 30){
              msg.channel.send("Mr.Vinay Kumar Sharma (Critical Thinking)\nMeet: https://meet.google.com/lookup/gfzoqdepre");
@@ -165,7 +168,7 @@ function automsg(msg){
     //Friday Table---------------
     if (changeDay == 5){
         if(utchours == 3 && utcMinutes == 20){
-             msg.channel.send("Kanika Garg (SEPM)\nMeet: https://meet.google.com/lookup/ef4rgsip3e?authuser=1&hs=179");
+             msg.channel.send("राम राम जी 🙏\n\nKanika Garg (SEPM)\nMeet: https://meet.google.com/lookup/ef4rgsip3e?authuser=1&hs=179");
         }
         else if(utchours == 4 && utcMinutes == 30){
              msg.channel.send("Mr.Tanuj Kumar (PQT)\nMeet: https://meet.google.com/lookup/c2eauseakw?authuser=1&hs=179");
