@@ -37,7 +37,7 @@ async function gotMcMessage(msg){
         else if(msg.content == "apshabd ka oopyog kare"){
             // const koibhi = Math.floor(Math.random() * replies.length);
             // msg.channel.send(replies[koibhi]);
-            msg.channel.send("मैं एम.सी बॉट अब अच्छा बालक बन गया हूं")
+            client.send("मैं एम.सी बॉट अब अच्छा बालक बन गया हूं")
         }
 
         else if(tokens[0] == "!gif"){
