@@ -190,5 +190,5 @@ function automsg(msg){
 }
 
 
-client.on('ready', automsg);
+client.on('message', automsg);
 client.on('message', gotMcMessage);
