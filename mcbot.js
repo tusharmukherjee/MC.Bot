@@ -6,24 +6,7 @@ const client = new Discord.Client();
 client.login(process.env.MCBOTTOKEN);
 
 
-// const replies = [
-//     'लौडा साला',
-//     'बेहनचोद',
-//     'फक फक फक...',
-//     'चुप मादरचोद',
-//     'गांडू',
-//     'टुट्टी गाँड',
-//     'हैट लॉडु',
-//     'भोसडीवाले',
-//     'गांड फाड़ डूंगा',
-//     'लंड ले ले मेरा',
-//     'ज़ादा गाँड ना फुलाये',
-//     'चुतिये',
-//     'कुत्ते का पिला साला',
-//     'गण सुजा डूंगा'
-// ]
 
-// client.on('message', gotMcMessage);
 
 async function gotMcMessage(msg){
     console.log(msg);
