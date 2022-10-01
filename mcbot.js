@@ -5,9 +5,6 @@ const client = new Discord.Client();
 
 client.login(process.env.MCBOTTOKEN);
 
-
-
-
 async function gotMcMessage(msg){
     console.log(msg);
     if (msg.channel.id == '822710399152553994'){
@@ -173,6 +170,5 @@ function automsg(){
     }
 }
 
-client.on('ready', () =>{console.log("success");});
-client.on(`ready`, automsg);
+client.on('ready', () =>{console.log("success");automsg});
 client.on('message', gotMcMessage);
